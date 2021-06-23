@@ -1,0 +1,19 @@
+{
+  "name": "@lippzhang/commitlint-plugin-includes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "conventional-commits-parser": "^3.2.1",
+    "eslint": "^7.29.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "jest": "^27.0.5"
+  }
+}

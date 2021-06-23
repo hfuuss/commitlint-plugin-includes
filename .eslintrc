@@ -1,0 +1,9 @@
+{
+  "extends": "eslint-config-airbnb",
+  "env": {
+    "jest": true
+  },
+  "rules": {
+    "global-require": "off"
+  }
+}
